@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550" height="212.034" viewBox="0 0 550 212.034">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd863"/>
+      <stop offset="1" stop-color="#fcb21e"/>
+    </linearGradient>
+  </defs>
+  <g id="Footer-msite" transform="translate(-617 -891.769)">
+    <path id="Union_5" data-name="Union 5" d="M0,184.534V43.987H.078v-12.8c.7-.048,6.964-1.051,52.015-9.855C108.464,10.31,144.4,22.469,221.828,35.768s135.56,0,206.451-21.69S550-3.73,550-3.73V43.987h0V184.534ZM.078,31.145v.036l-.046,0C-.061,31.184.078,31.145.078,31.145Z" transform="translate(617 919.27)" fill="#623f99"/>
+    <g id="Group_429" data-name="Group 429" transform="translate(649 835.769)">
+      <circle id="Ellipse_74" data-name="Ellipse 74" cx="19" cy="19" r="19" transform="translate(0 132)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_75" data-name="Ellipse 75" cx="41.5" cy="41.5" r="41.5" transform="translate(402 56)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
